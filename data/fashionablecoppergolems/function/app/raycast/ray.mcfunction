@@ -1,0 +1,4 @@
+execute if score &hit riding_cast_temp_copper_golem matches 0 positioned ~-0.05 ~-0.05 ~-0.05 as @e[type=copper_golem,tag=!riding_ray,tag=!has_interaction.fashionablecoppergolems,dx=0,sort=nearest] run function fashionablecoppergolems:app/raycast/check_hit_entity
+execute unless block ~ ~ ~ minecraft:air run function fashionablecoppergolems:app/raycast/hit_block
+scoreboard players add &distance riding_cast_temp_copper_golem 1
+execute if score &hit riding_cast_temp_copper_golem matches 0 if score &distance riding_cast_temp_copper_golem matches ..100 positioned ^ ^ ^0.1 run function fashionablecoppergolems:app/raycast/ray

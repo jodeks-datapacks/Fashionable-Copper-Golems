@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "right_click": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "item": {
+          "items": "#fashionablecoppergolems:saddle"
+        },
+        "entity": {
+          "type": "minecraft:interaction",
+          "nbt": "{data:{Marker_Copper_Golem:1b}}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "fashionablecoppergolems:app/interaction/right_click_saddle"
+  }
+}

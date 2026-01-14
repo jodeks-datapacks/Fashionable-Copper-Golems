@@ -1,0 +1,2 @@
+data modify storage fashionablecoppergolems:image current.pixel_color set from storage fashionablecoppergolems:image background_color
+function fashionablecoppergolems:image/process/build_pixel with storage fashionablecoppergolems:image current

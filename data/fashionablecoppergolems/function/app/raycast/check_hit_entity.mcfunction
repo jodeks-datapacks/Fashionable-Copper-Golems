@@ -1,0 +1,1 @@
+execute if score &hit riding_cast_temp_copper_golem matches 0 positioned ~-0.9 ~-0.9 ~-0.9 if entity @s[dx=0] positioned ~0.95 ~0.95 ~0.95 run function fashionablecoppergolems:app/raycast/hit_entity

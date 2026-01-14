@@ -1,0 +1,1 @@
+function fashionablecoppergolems:image/process/build_pixel with storage fashionablecoppergolems:image current

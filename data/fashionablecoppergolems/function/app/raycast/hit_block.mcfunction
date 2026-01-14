@@ -1,0 +1,1 @@
+scoreboard players set &hit riding_cast_temp_copper_golem 1
