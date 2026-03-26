@@ -1,1 +1,0 @@
-scoreboard players set @a[tag=fashionablecoppergolems.riding_ray] fashionablecoppergolems.raycast_hit 1

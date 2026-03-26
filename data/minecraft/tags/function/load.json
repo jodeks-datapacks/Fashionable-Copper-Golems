@@ -1,6 +1,6 @@
 {
   "values": [
-    "fashionablecoppergolems:app/setup",
-    "fashionablecoppergolems:app/load_message"
+    "copper_golem_hats:app/setup",
+    "copper_golem_hats:app/load_message"
   ]
 }

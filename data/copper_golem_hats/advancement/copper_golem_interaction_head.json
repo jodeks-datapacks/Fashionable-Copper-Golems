@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "right_click": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "item": {
+          "items": "#copper_golem_hats:head"
+        },
+        "entity": {
+          "type": "minecraft:interaction",
+          "nbt": "{data:{Marker_Copper_Golem:1b}}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "copper_golem_hats:app/interaction/right_click_head"
+  }
+}

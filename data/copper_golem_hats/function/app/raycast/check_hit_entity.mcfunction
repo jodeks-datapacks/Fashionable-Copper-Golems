@@ -1,0 +1,1 @@
+execute as @s if score @a[tag=copper_golem_hats.riding_ray,limit=1] copper_golem_hats.raycast_hit matches 0 positioned ~-0.9 ~-0.9 ~-0.9 if entity @s[dx=0] positioned ~0.95 ~0.95 ~0.95 run function copper_golem_hats:app/raycast/hit_entity

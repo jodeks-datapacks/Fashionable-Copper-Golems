@@ -1,0 +1,1 @@
+scoreboard players set @a[tag=copper_golem_hats.riding_ray] copper_golem_hats.raycast_hit 1

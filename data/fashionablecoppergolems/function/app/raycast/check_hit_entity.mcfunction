@@ -1,1 +1,0 @@
-execute as @s if score @a[tag=fashionablecoppergolems.riding_ray,limit=1] fashionablecoppergolems.raycast_hit matches 0 positioned ~-0.9 ~-0.9 ~-0.9 if entity @s[dx=0] positioned ~0.95 ~0.95 ~0.95 run function fashionablecoppergolems:app/raycast/hit_entity
