@@ -25,7 +25,7 @@
                 "advancements": {
                   "jodek:copper_golem_hats": true,
                   "jodek:root": true,
-                  "jodek:utility": true
+                  "jodek:mobs": true
                 }
               }
             }

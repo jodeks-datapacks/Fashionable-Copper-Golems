@@ -17,7 +17,6 @@ function copper_golem_hats:image/set_image_data {\
     {translate: "copper_golem_hats.description", fallback: "Put any item on the head of copper golems!"},\
     "",\
     [{translate: "jodek.datapack_version", fallback: "Datapack version: ", color: "#00a800"}, {text: "v1.0.3", color: "#54fc54"}],\
-    [{translate: "jodek.game_version", fallback: "Game version: ", color: "#00a800"}, {text: "1.21.6+", color: "#54fc54"}],\
     "",\
     [{translate: "jodek.by", fallback: "By ", color: "#fcfcfc"}, {text: "Jodek", color: "#fcfc54"}],\
     {text: "modrinth.com/datapack/fashionable-copper-golems", color: "#a800a8"},\

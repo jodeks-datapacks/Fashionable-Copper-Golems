@@ -11,27 +11,30 @@
       },
       "\n",
       {
-        "text": "Put any item on the head of copper golems!",
+        "translate": "copper_golem_hats.description",
+        "fallback": "Put any item on the head of copper golems!",
         "color": "#aaaaaa"
       },
       "\n\n",
       {
-        "text": "Version "
+        "translate": "jodek.version",
+        "fallback": "Version"
+      },
+      {
+        "text": " "
       },
       {
         "text": "1.0.3",
         "color": "#55ff55"
       },
-      {
-        "text": " for Minecraft "
-      },
-      {
-        "text": "1.21.6+",
-        "color": "#55ff55"
-      },
+
       "\n",
       {
-        "text": "by "
+        "translate": "jodek.by",
+        "fallback": "by"
+      },
+      {
+        "text": " "
       },
       {
         "text": "Jodek",

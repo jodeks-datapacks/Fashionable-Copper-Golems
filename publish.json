@@ -1,7 +1,7 @@
 {
-  "project_id": "cnhPQ7CA",
-  "curseforge_project_id": "1429208",
-  "curseforge_mod_project_id": "1429215",
+  "modrinth_id": "cnhPQ7CA",
+  "curseforge_id": "1429208",
+  "curseforge_mod_id": "1429215",
   "curseforge_slug": "fashionable-copper-golems",
   "loaders": ["datapack"],
   "game_versions": [
